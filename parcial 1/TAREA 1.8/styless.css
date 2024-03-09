@@ -1,0 +1,24 @@
+html
+{
+   background-color:aquamarine;
+}
+.Menu {
+    display: flex;
+    gap: 2rem;
+    font-size: 1.3rem;
+    color:cornflowerblue;
+    font-weight: 600;
+    text-transform: uppercase;
+    position: relative;
+}
+.Menu-problema1
+{
+    display: flex;
+    gap: 2rem;
+    font-size: 1.3rem;
+    color:crimson;
+    font-weight: 600;
+    text-transform: uppercase;
+    position: relative;
+}
+
